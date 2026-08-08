@@ -1,0 +1,6 @@
+google-cloud-sdk/
+node_modules/
+.env
+dist/
+build/
+*.log
